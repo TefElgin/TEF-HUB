@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/fb02c291-407f-4402-8032-4192b24fb29d" width="100">
 
 
-##### 2. Após finalizar, copie o arquivo .NEW e coloque no diretório C:\VBI\V$Pague\Client.
+##### 2. Após finalizar, copie o arquivo .NEW(disponível para download em: https://github.com/TefElgin/TEF-HUB/blob/main/Destaxa/Arquivos/V%24PagueClient.NEW) e coloque no diretório C:\VBI\V$Pague\Client.
 
 
 ##### 3. Em seguida, execute o atalho "Client TEF" na área de trabalho e aguarde o ícone da aplicação, aparecer na barra de tarefa como “verde = Ativo” e valide se foi atualizado.
